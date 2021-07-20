@@ -5,9 +5,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Next Starter</title>
         <meta name="description" content="Nextjs starter by Connor Lindsey" />
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className="p-8 flex flex-col items-center">
